@@ -1,0 +1,32 @@
+  	</style>
+
+
+    <style type="text/css">
+    .khung .box{
+      padding-left: 10px !important;
+    }
+    .khung .box img{
+      opacity: 1;
+    }
+    .khung .box p{
+      color: white;
+      opacity: 0.8;
+      
+    }
+    .khung .box a{
+      text-decoration: none;
+    }
+    .khung .box:hover{
+       background: transparent;
+        color: white;       
+        background-color: rgba(255,255,255,0.2);
+        padding: 1rem;
+        border-radius: 10px;
+    }
+    .khung .box p:hover{    
+      color: white;
+      opacity: 1;
+    }
+
+    
+  </style>
